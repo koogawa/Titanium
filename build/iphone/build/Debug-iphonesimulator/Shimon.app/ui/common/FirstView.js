@@ -1,0 +1,1 @@
+/Users/kosuke/Documents/svn/Titanium/Shimon/Resources/ui/common/FirstView.js
